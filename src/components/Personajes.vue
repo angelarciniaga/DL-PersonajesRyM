@@ -30,8 +30,4 @@ export default {
 
 <!-- Add "scoped" attribute to limit CSS to this component only -->
 <style scoped>
-.imgFondo {
-  background-image: url('../assets/cropped-RM_page-header_background1-3.png');
-  background-size: cover;
-}
 </style>
